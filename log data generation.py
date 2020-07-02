@@ -1,5 +1,5 @@
 
-#This code generates log data and connects to and sends the logs to Pub. User needs to create a PublisherClient object, and then call the publish function
+#This code generates a log data that connects  and sends the logs to Pub. Users need to create a PublisherClient object, and then call the publish function
 # For query regarding the Big data used herein please contact Vidya Samadi at Clemson University (samadi@clemson.edu)
 
 
